@@ -222,6 +222,12 @@ Updated YouTube Plus from 5.2.1 to 5.2.2; cracked by <a href="https://www.reddit
 Replaced VolumeBoostYT by irum0320 with the fork by candyzp
 <li><strong>1.5.4 (September 1 2026):</strong></li>
 Returned to the original VolumeBoostYT tweak because the fork used in MaxTube 1.5.3 was buggy.
+<li><strong>1.6 (September 12 2026):</strong></li>
+• Updated YTPlaybackFix (specifically Spoof Client method, now spoofs to TV Simply client as Android VR is now broken and has buffers)
+
+• Using again the fork of VolumeBoostYT by candyzp because he fixed a lot of issues
+
+• Removed PleaseDontStopTheMusic because it caused issues with calls and audio
 
 ## Supported YouTube Version
 <ul>
