@@ -358,13 +358,6 @@ Returned to the original VolumeBoostYT tweak because the fork used in MaxTube 1.
 </details>
 
 <details>
- <summary>PleaseDontStopTheMusic (only in MaxTube versions)</summary>
- <p>PleaseDontStopTheMusic is a tweak developed by <a href="https://github.com/mikey820">mikey820</a> that prevents apps (e.g. Roblox) from pausing your background music.</p>
- <p><strong>PleaseDontStopTheMusic preferences</strong> are not available.</p>
- <p>Source code and additional information are available <a href="https://github.com/mikey820/PleaseDontStopTheMusic">in mikey820's repository</a>.</p>
-</details>
-
-<details>
  <summary>YouLoop (only in MaxTube versions)</summary>
  <p>YouLoop is a tweak developed by <a href="https://github.com/bhackel">bhackel</a> that adds a player button to enable/disable looping on the current video.</p>
  <p><strong>YouLoop preferences</strong> are available in the <strong>Video Overlay</strong> section under <strong>YouTube settings</strong>.</p>
@@ -404,8 +397,7 @@ This project is alive also thanks to those fantastic guys:
 <a href="https://github.com/VasirakCalgux">VasirakCalgux</a>: **creator of VolumeBoostYT**
 
 
-<a href="https://github.com/mikey820">mikey820</a>: **creator of PleaseDontStopTheMusic**
-
 <a href="https://github.com/bhackel">bhackel</a>: **creator of YouLoop**
+
 
 <a href="https://github.com/AppropriateNet2928">AppropriateNet2928</a>: **creator of YouFixPlaybackIssues, the other method used by my YTPlaybackFix**
