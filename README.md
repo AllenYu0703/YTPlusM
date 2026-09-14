@@ -231,7 +231,7 @@ Returned to the original VolumeBoostYT tweak because the fork used in MaxTube 1.
 • Removed PleaseDontStopTheMusic because it caused issues with calls and audio
 
 <li><strong>1.6.2 (September 14 2026):</strong></li>
-•Fixed Gonerino lag issue in playlists
+• Fixed Gonerino lag issue in playlists
 
 ## Supported YouTube Version
 <ul>
