@@ -324,6 +324,11 @@ jobs:
           cd YTweaks && make clean package DEBUG=0 FINALPACKAGE=1
           mv packages/*.deb ../ytweaks.deb
 
+      - name: Setup Go
+        uses: actions/setup-go@v7
+        with:
+         go-version: 'stable'
+
       - name: Build Gonerino
         if: ${{ inputs.enable_gonerino }}
         run: |
