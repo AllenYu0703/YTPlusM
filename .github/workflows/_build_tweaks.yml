@@ -226,9 +226,9 @@ jobs:
         if: ${{ inputs.enable_ytweaks }}
         run: git clone --quiet --depth=1 https://github.com/fosterbarnes/YTweaks.git
 
-      - name: Clone Gonerino
-        if: ${{ inputs.enable_gonerino }}
-        run: git clone --quiet --depth=1 https://github.com/fosterbarnes/YGonerino.git
+      # - name: Clone Gonerino
+      #   if: ${{ inputs.enable_gonerino }}
+      #   run: git clone --quiet --depth=1 https://github.com/castdrian/Gonerino.git
       
       - name: Clone YouSpeed
         if: ${{ inputs.enable_youspeed }}
@@ -324,10 +324,10 @@ jobs:
           cd YTweaks && make clean package DEBUG=0 FINALPACKAGE=1
           mv packages/*.deb ../ytweaks.deb
 
-      - name: Build Gonerino
+      - name: Download Gonerino 1.8.1
         if: ${{ inputs.enable_gonerino }}
         run: |
-          cd YGonerino && make clean package DEBUG=0 FINALPACKAGE=1
+          wget "https://github.com/castdrian/Gonerino/releases/download/v1.8.1/dev.adrian.gonerino_1.8.1_iphoneos-arm64.deb"
           mv packages/*.deb ../gonerino.deb
 
       - name: Build YouSpeed
