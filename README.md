@@ -225,9 +225,13 @@ Returned to the original VolumeBoostYT tweak because the fork used in MaxTube 1.
 <li><strong>1.6 (September 12 2026):</strong></li>
 • Updated YTPlaybackFix (specifically Spoof Client method, now spoofs to TV Simply client as Android VR is now broken and has buffers)
 
+
 • Using again the fork of VolumeBoostYT by candyzp because he fixed a lot of issues
 
 • Removed PleaseDontStopTheMusic because it caused issues with calls and audio
+
+<li><strong>1.6.2 (September 14 2026):</strong></li>
+•Fixed Gonerino lag issue in playlists
 
 ## Supported YouTube Version
 <ul>
@@ -394,7 +398,7 @@ This project is alive also thanks to those fantastic guys:
 <a href="https://github.com/castdrian">castdrian</a>: **creator of Gonerino**
 
 
-<a href="https://github.com/VasirakCalgux">VasirakCalgux</a>: **creator of VolumeBoostYT**
+<a href="https://github.com/irum0320">irum0320</a>: **creator of VolumeBoostYT**
 
 
 <a href="https://github.com/bhackel">bhackel</a>: **creator of YouLoop**
